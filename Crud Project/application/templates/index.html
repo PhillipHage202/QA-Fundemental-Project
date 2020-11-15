@@ -1,0 +1,48 @@
+{% extends 'layout.html' %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+</head>
+<body>
+{% block head_content %}
+
+{% for workout_plan in all_workout_plan %}
+
+		<h4>{{ workout_plan.name }}</h4>
+
+	
+		<form method= '' action='{{ url_for('update', id=workout_plan.id)}}'>
+			<button>Update</button>
+		</form>
+		
+		<form method='' action=' {{ url_for('delete', id=workout_plan.id)}}'>
+			<button>Delete</button>
+		</form>
+
+		<form method= '' action='{{ url_for('addSession',id=workout_plan.id)}}'>
+			<button>Add Session</button>
+		</form>
+
+		<form method= '' action='{{ url_for('Viewpage',id=workout_plan.id)}}'>
+
+				<button>View Session</button>
+		</form>
+		
+		{% endfor %}
+	
+</div>
+
+	
+		{% endblock head_content%}
+
+
+</body>
+</html>
+
+
+
+	

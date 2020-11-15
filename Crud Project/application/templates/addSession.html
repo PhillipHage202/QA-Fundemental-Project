@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+{% block head_content %}
+
+<h2>Add your Session</h2>
+<br>
+    <form action='' method='POST'>
+        {{ form.hidden_tag() }}
+        {{form.pushups.label}} {{ form.pushups }} <br>
+        {% if form.pushups.errors %}
+            {% for error in form.pushups.errors %}
+                {{ error }}<br>
+            {% endfor %}
+        {% endif %}
+
+	{{form.hidden_tag()}}
+        {{form.comment.label}} {{form.comment}}
+	{{form.submit}}
+    </form> 
+{% endblock head_content %}

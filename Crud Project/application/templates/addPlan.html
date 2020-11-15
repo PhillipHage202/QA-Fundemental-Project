@@ -1,0 +1,22 @@
+{% extends 'layout.html' %}
+{% block head_content %}
+
+<h2>Add Your name</h2>
+
+<form method='POST' action=''>
+
+	<table>
+
+	{{ form.hidden_tag() }}
+	{{ form.name.label }} {{ form.name }}
+	{% if form.name.errors %}
+		{% for error in form.name.errors %}
+			{{ error }}
+		{% endfor %}
+	{% endif %}
+	<br><br>
+	{{ form.submit }}
+</form>
+
+</table>
+{% endblock head_content %}

@@ -1,0 +1,15 @@
+
+{% extends 'layout.html' %}
+{% block head_content %}
+
+{% for view in view_page %}
+<h3>{{ view.plan.name}}</h3>
+<p>Pushups: &nbsp;  &nbsp; &nbsp;{{ view.pushups }} </p> 
+<p>Comment: &nbsp; &nbsp; &nbsp; &nbsp;{{ view.comment }}</p>
+{% endfor %}
+
+
+
+
+{% endblock head_content %}
+
