@@ -22,7 +22,7 @@ o	Description of the workout or how many numbers of pushups was done
 •	Delete their post (satisfies 'Delete')
 •	Read the post (satisfies 'Read')
 
-All  relevant images of the project can be found in the documents in the repo.
+### All  relevant images of the project can be found in the documents in the repo.
 
 Known Issues
 There are a few bugs with the current build of the app:
