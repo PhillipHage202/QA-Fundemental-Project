@@ -41,16 +41,19 @@ o	Description of the workout or how many numbers of pushups was done
 * ERD diagram
 
 ![Erd](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/erd.png)
-![Tree Structure](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/treee.png)
 
-* CI Pipeline
+* Tree Structure
+
+![Tree Structure](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/treee.png)
 
 * Project tracking 
 
 ![](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/trello.png)
+
 * Risk assessment
 
 ![](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/risk%20assessment.png)
+
 * Testing Reports
 
 ![Pytest in terminal](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/pytest%20terminal.png)
