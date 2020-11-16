@@ -39,6 +39,8 @@ o	Description of the workout or how many numbers of pushups was done
 ### All  relevant images of the project can be found in the documents in the repo, this includes:
 
 * ERD diagram
+![Hi](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/erd.png)
+
 * CI Pipeline
 * Project tracking 
 * Risk assessment
