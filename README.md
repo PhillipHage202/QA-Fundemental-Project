@@ -1,6 +1,6 @@
 # QA-Fundemental-Project
 
-### Brief
+# Brief
 The brief provided to us for this project sets the following out as its overall objective: "To create a CRUD application with utilisation of supporting tools, methodologies and technologies that encapsulate all core modules covered during training."
 
 
@@ -20,7 +20,7 @@ In addition to what has been set out in the brief, I am also required to include
 
 •	Code integrated into a Version Control System which will be built through a CI server and deployed to a cloud-based virtual machine
 
-### My Approach
+# My Approach
 
 To achieve this, I have decided to produce a simple exercise app that must allow a person to do the following:
 
@@ -36,30 +36,30 @@ o	Description of the workout or how many numbers of pushups was done
 
 •	Read the post (satisfies 'Read')
 
-### All  relevant images of the project can be found in the documents in the repo, this includes:
+## All  relevant images of the project can be found in the documents in the repo, this includes:
 
-* ERD diagram
+### ERD diagram
 
 ![Erd](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/erd.png)
 
-* Tree Structure
+### Tree Structure
 
 ![Tree Structure](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/treee.png)
 
-* Project tracking 
+### Project tracking 
 
 ![](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/trello.png)
 
-* Risk assessment
+### Risk assessment
 
 ![](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/risk%20assessment.png)
 
-* Testing Reports
+### Testing Reports
 
 ![Pytest in terminal](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/pytest%20terminal.png)
 ![html coverage](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/cov.png)
 
-* Front-End Design
+### Front-End Design
 
 ![Home Page](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/home%202.png)
 
