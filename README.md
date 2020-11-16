@@ -53,7 +53,9 @@ o	Description of the workout or how many numbers of pushups was done
 
 ### Future Improvements
 
-There are a number of improvements I would like to implement (outside of current bugs):
+There are a number of improvements I would like to implement :
+
+•	Will try to fix the connection error from gcp
 
 •	Implement a login system where a user can be unique
 
