@@ -39,16 +39,20 @@ o	Description of the workout or how many numbers of pushups was done
 ### All  relevant images of the project can be found in the documents in the repo, this includes:
 
 * ERD diagram
+
 ![Erd](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/erd.png)
 ![Tree Structure](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/treee.png)
 
 * CI Pipeline
 
 * Project tracking 
+
 ![](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/trello.png)
 * Risk assessment
+
 ![](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/risk%20assessment.png)
 * Testing Reports
+
 ![Pytest in terminal](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/pytest%20terminal.png)
 ![html coverage](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/cov.png)
 
@@ -64,7 +68,7 @@ o	Description of the workout or how many numbers of pushups was done
 
 ### Known Issues
 
-•	An issue with the  layout templates where sometimes the posts is not visible.
+•	An issue with the layout templates where sometimes the posts is not visible.
 
 •	Unfortunately due to connection errors/ firewall issues, the application could not connect to GCP database and Gunicorn
 
