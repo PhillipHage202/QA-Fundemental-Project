@@ -39,15 +39,28 @@ o	Description of the workout or how many numbers of pushups was done
 ### All  relevant images of the project can be found in the documents in the repo, this includes:
 
 * ERD diagram
-![](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/erd.png)
+![Erd](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/erd.png)
+![Tree Structure](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/treee.png)
 
 * CI Pipeline
 
 * Project tracking 
 ![](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/trello.png)
 * Risk assessment
+![](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/risk%20assessment.png)
 * Testing Reports
+![Pytest in terminal](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/pytest%20terminal.png)
+![html coverage](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/cov.png)
+
 * Front-End Design
+
+![Home Page](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/home%202.png)
+
+![Add Workout](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/add.png)
+![Add Session](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/addSession.png)
+![View Page](https://github.com/PhillipHage202/QA-Fundemental-Project/blob/main/Documents/Viewpage.png)
+
+
 
 ### Known Issues
 
