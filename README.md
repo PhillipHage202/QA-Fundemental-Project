@@ -39,6 +39,7 @@ o	Description of the workout or how many numbers of pushups was done
 Known Issues
 
 •	An issue with the  layout templates where sometimes the posts is not visible.
+
 •	Unfortunately due to connection errors the application could not connect to GCP database and Gunicorn
 
 Future Improvements
