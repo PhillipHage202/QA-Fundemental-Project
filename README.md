@@ -5,6 +5,7 @@ The brief provided to us for this project sets the following out as its overall 
 
 
 In addition to what has been set out in the brief, I am also required to include the following:
+
 •	A Trello board
 
 •	A relational database, consisting of at least two tables that model a relationship
@@ -19,7 +20,8 @@ In addition to what has been set out in the brief, I am also required to include
 
 •	Code integrated into a Version Control System which will be built through a CI server and deployed to a cloud-based virtual machine
 
-My Approach
+### My Approach
+
 To achieve this, I have decided to produce a simple exercise app that must allow a person to do the following:
 
 •	Create posts of workout (satisfies 'Create') with the following information:
