@@ -21,14 +21,21 @@ In addition to what has been set out in the brief, I am also required to include
 
 My Approach
 To achieve this, I have decided to produce a simple exercise app that must allow a person to do the following:
+
 •	Create posts of workout (satisfies 'Create') with the following information:
+
 o	Author of the post
+
 o	Description of the workout or how many numbers of pushups was done
+
 •	View and update their post (satisfies 'Read' and 'Update')
+
 •	Delete their post (satisfies 'Delete')
+
 •	Read the post (satisfies 'Read')
 
 ### All  relevant images of the project can be found in the documents in the repo, this includes:
+
 * ERD diagram
 * CI Pipeline
 * Project tracking 
@@ -36,24 +43,31 @@ o	Description of the workout or how many numbers of pushups was done
 * Testing Reports
 * Front-End Design
 
-Known Issues
+### Known Issues
 
 •	An issue with the  layout templates where sometimes the posts is not visible.
 
 •	Unfortunately due to connection errors the application could not connect to GCP database and Gunicorn
 
-Future Improvements
+### Future Improvements
+
 There are a number of improvements I would like to implement (outside of current bugs):
+
 •	Implement a login system where a user can be unique
+
 •	Add a function where users can post images
+
 •	Add a function where users can register via from their social media account
+
 •	Add a GPS function where users can track their running
+
 •	Add a video function where users can upload and view videos
+
 •	Improve the front-end design of the application 
 	
 
 
-Author
+### Author
 
 Phillip Hau
 
