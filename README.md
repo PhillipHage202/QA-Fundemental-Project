@@ -1,6 +1,6 @@
 # QA-Fundemental-Project
 
-Brief
+##Brief
 The brief provided to us for this project sets the following out as its overall objective: "To create a CRUD application with utilisation of supporting tools, methodologies and technologies that encapsulate all core modules covered during training."
 
 
