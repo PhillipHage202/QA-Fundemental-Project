@@ -73,13 +73,12 @@ o	Description of the workout or how many numbers of pushups was done
 
 •	An issue with the layout templates where sometimes the posts is not visible.
 
-•	Unfortunately due to connection errors/ firewall issues, the application could not connect to GCP database and Gunicorn
+
 
 ### Future Improvements
 
 There are a number of improvements I would like to implement :
 
-•	Will try to fix the connection error from gcp
 
 •	Implement a login system where a user can be unique
 
